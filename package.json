@@ -1,0 +1,24 @@
+{
+  "name": "firehose-event",
+  "version": "1.0.0",
+  "description": "Post event to AWS Firehose stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsdehnel/firehose-event.git"
+  },
+  "keywords": [
+    "aws",
+    "firehose",
+    "stream"
+  ],
+  "author": "Adam Dehnel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsdehnel/firehose-event/issues"
+  },
+  "homepage": "https://github.com/arsdehnel/firehose-event#readme"
+}
